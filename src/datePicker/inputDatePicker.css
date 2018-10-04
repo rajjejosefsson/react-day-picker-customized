@@ -1,0 +1,26 @@
+.DayPickerInput {
+  width: 100%;
+}
+
+.c-input-date-picker {
+  display: flex;
+  align-items: center;
+  height: 36px;
+  border-radius: 2px;
+  background-color: #ffffff;
+  border: solid 1px #9ba2a6;
+}
+
+.c-input-date-picker--input {
+  border: none;
+  height: 100%;
+  width: 100%;
+}
+
+.c-input-date-picker--icon {
+  padding: 0 5px;
+}
+
+.c-input-date-picker--icon > svg {
+  stroke: #9ba2a6;
+}
